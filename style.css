@@ -170,6 +170,7 @@ body {
 .content .main img {
 	height: 200px;
 	float: left;
+	cursor: pointer;
 }
 .content .main img:hover {
 	box-shadow: 0 0 20px 5px black;
